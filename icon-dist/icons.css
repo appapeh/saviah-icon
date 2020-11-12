@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "icons";
+    src: url("icons.eot?3ae47e4109bce28d713d231c4374d3d4#iefix") format("embedded-opentype"),
+url("icons.woff2?3ae47e4109bce28d713d231c4374d3d4") format("woff2"),
+url("icons.woff?3ae47e4109bce28d713d231c4374d3d4") format("woff");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-appapeh:before {
+    content: "\f101";
+}
+.icon-download:before {
+    content: "\f102";
+}
+.icon-face:before {
+    content: "\f103";
+}
+.icon-fence:before {
+    content: "\f104";
+}
+.icon-kanban:before {
+    content: "\f105";
+}
+.icon-worker:before {
+    content: "\f106";
+}
