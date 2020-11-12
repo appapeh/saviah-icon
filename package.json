@@ -1,0 +1,14 @@
+{
+  "name": "saviah-icon",
+  "version": "1.0.0",
+  "description": "Saviah icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wwwanyu.com",
+  "license": "MIT",
+  "devDependencies": {
+    "fantasticon": "^1.0.11"
+  }
+}
