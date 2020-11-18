@@ -1,8 +1,8 @@
 @font-face {
     font-family: "icons";
-    src: url("icons.eot?ab824fd82fe4d0b899cc834c1084db08#iefix") format("embedded-opentype"),
-url("icons.woff2?ab824fd82fe4d0b899cc834c1084db08") format("woff2"),
-url("icons.woff?ab824fd82fe4d0b899cc834c1084db08") format("woff");
+    src: url("icons.eot?7edc61a5fdf49e87b2cbc18442f2747f#iefix") format("embedded-opentype"),
+url("icons.woff2?7edc61a5fdf49e87b2cbc18442f2747f") format("woff2"),
+url("icons.woff?7edc61a5fdf49e87b2cbc18442f2747f") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
