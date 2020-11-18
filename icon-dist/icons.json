@@ -4,5 +4,7 @@
     "face": 61699,
     "fence": 61700,
     "kanban": 61701,
-    "worker": 61702
+    "rotate-clockwise": 61702,
+    "trash-bin": 61703,
+    "worker": 61704
 }

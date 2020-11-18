@@ -1,8 +1,8 @@
 @font-face {
     font-family: "icons";
-    src: url("icons.eot?3ae47e4109bce28d713d231c4374d3d4#iefix") format("embedded-opentype"),
-url("icons.woff2?3ae47e4109bce28d713d231c4374d3d4") format("woff2"),
-url("icons.woff?3ae47e4109bce28d713d231c4374d3d4") format("woff");
+    src: url("icons.eot?ab824fd82fe4d0b899cc834c1084db08#iefix") format("embedded-opentype"),
+url("icons.woff2?ab824fd82fe4d0b899cc834c1084db08") format("woff2"),
+url("icons.woff?ab824fd82fe4d0b899cc834c1084db08") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -31,6 +31,12 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-kanban:before {
     content: "\f105";
 }
-.icon-worker:before {
+.icon-rotate-clockwise:before {
     content: "\f106";
+}
+.icon-trash-bin:before {
+    content: "\f107";
+}
+.icon-worker:before {
+    content: "\f108";
 }
