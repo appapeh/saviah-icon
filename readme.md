@@ -35,4 +35,4 @@ npm install
 <i class="icon icon-appapeh"></i>
 ```
 
- <iframe src="https://appapeh.github.io/saviah-icon/icon-dist/icons.html" title="Saviah Icons"></iframe> 
+ <iframe src="https://appapeh.github.io/saviah-icon/icon-dist/icons.html" title="Saviah Icons" width="100%" height="370px"></iframe> 
